@@ -1,7 +1,7 @@
 LabKey via Docker
 =================
 
-** WORK IN PROGRESS, PLEASE DO NOT USE THIS YET. **
+*WORK IN PROGRESS, PLEASE DO NOT USE THIS YET.*
 
 This folder contains the Dockerfile, additional scripts and instructions for running a Docker image which you can use to give LabKey Server a try. An image built with this Dockerfile is available at [bconn/labkey-standalone](https://registry.hub.docker.com/u/bconn/labkey-standalone/) on DockerHub.
 
