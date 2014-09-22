@@ -1,1 +1,1 @@
- * See [/LabKey](LabKey/README.md)
+ * See [/LabKey](LabKey)
