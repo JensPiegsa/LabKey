@@ -1,1 +1,1 @@
- * See [/LabKey](LabKey)
+ * see: [/LabKey](LabKey)
